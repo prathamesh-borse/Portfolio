@@ -1,0 +1,52 @@
+* {
+  padding: 0;
+  margin: 0;
+  font-family: "Reem Kufi", serif;
+}
+
+.backImg {
+  width: 100%;
+  height: 100vh;
+  background-color: #313a3d;
+  background-size: cover;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  color: white;
+}
+
+.profile {
+  width: 400px;
+  padding: 30px 0;
+  border-radius: 10%;
+  border: 0.2rem solid rgba(255, 255, 255, 0.2);
+}
+
+.profileText {
+  margin-bottom: 20px;
+}
+
+img {
+  height: 200px;
+  border-radius: 70%;
+  margin-bottom: 20px;
+  border: 0.2rem solid rgba(255, 255, 255, 0.2);
+}
+
+.profileText h2 {
+  font-size: 2em;
+  font-weight: 500;
+  margin-bottom: 7px;
+}
+
+.profileText h3 {
+  font-size: 1.4em;
+  font-weight: 500;
+  margin-bottom: 10px;
+}
+
+i {
+  color: white;
+  padding: 3px;
+}
