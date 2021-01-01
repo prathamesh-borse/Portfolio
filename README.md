@@ -1,2 +1,3 @@
-# Portfolio.github.io
-Simple Portfolio Website 
+# Portfolio
+
+Simple Portfolio Website using HTML Language
